@@ -1,1 +1,1 @@
-# video-player
+# Common video player

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX.AudioVideoPlayback">
+      <HintPath>Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

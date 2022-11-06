@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcPLMnfSWnrwMpuIsur5DK0KSpfs5yZ9a07ovlp4YC6zTwJBVErtA3HPN+74YqJxZ5YTFMsD+uazINJjj4W5SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Оля\\Desktop\\VideoPlayer2\\VideoPlayer2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Оля\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
